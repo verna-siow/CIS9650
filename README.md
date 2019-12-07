@@ -11,3 +11,6 @@ The data used in this project is from: https://www.kaggle.com/sulianova/cardiova
 
 # Analysis
 Through our model, users can see that the top three driven factors are cholesterol, active level and gender. The highlight of our model is the prediction of getting cardiovascular disease by inputing person's age, gender, height, weight, cholesterol level, glucose level and lifestyle ( smoke, drink alcohol and work out). The model would show the percentage of that person getting cardio disease.
+
+# Instructions
+Please refer to the user manual. 
